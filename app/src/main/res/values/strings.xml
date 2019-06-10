@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Remote Config App</string>
+    <string name="app_default_string">This is app\'s default string</string>
+    <string name="change_display_text">change display text</string>
+</resources>

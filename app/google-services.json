@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "8660483605",
+    "firebase_url": "https://remote-config-app-16bde.firebaseio.com",
+    "project_id": "remote-config-app-16bde",
+    "storage_bucket": "remote-config-app-16bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8660483605:android:673a684984e19d2d",
+        "android_client_info": {
+          "package_name": "com.assistiveapps.remoteconfigapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8660483605-80jbrjas1rng856ackq0svepbpt5tma1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assistiveapps.remoteconfigapp",
+            "certificate_hash": "53b8c1d43090c2a8b331bc8da503714a3dbde022"
+          }
+        },
+        {
+          "client_id": "8660483605-8vbt7svrmkus5gfc7samh0abd6q3pacq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKKWJUAOaRIOE45ngl-9DH9eWq1sMl21Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8660483605-8vbt7svrmkus5gfc7samh0abd6q3pacq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
